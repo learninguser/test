@@ -5,8 +5,6 @@ CHECK_ROOT
 
 CREATE_LOG
 
-VALIDATE
-
 COLORS
 
 curl -s https://packagecloud.io/install/repositories/rabbitmq/erlang/script.rpm.sh | bash &>>$LOGFILE

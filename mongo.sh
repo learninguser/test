@@ -5,8 +5,6 @@ CHECK_ROOT
 
 CREATE_LOG
 
-VALIDATE
-
 COLORS
 
 cp mongo.repo /etc/yum.repos.d/mongo.repo &>> $LOGFILE
